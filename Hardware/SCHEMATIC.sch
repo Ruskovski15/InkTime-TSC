@@ -1526,7 +1526,7 @@ DIN A3, landscape with location and doc. field</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="BQ25180YBGR_BQ25180YBGR" prefix="IC" library_version="1">
+<deviceset name="BQ25180YBGR_BQ25180YBGR" prefix="IC" library_version="4">
 <description>&lt;b&gt;Charger IC Lithium Ion/Polymer, Lithium Iron Phosphate 8-DSBGA (1.6x1.1)&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="https://www.ti.com/lit/ds/symlink/bq25180.pdf?ts=1650264094470&amp;ref_url=https%3A%2F%2Fwww.ti.com%2Fproduct%2FBQ25180"&gt; Datasheet &lt;/a&gt;</description>
 <gates>
@@ -1559,7 +1559,7 @@ Source: &lt;a href="https://www.ti.com/lit/ds/symlink/bq25180.pdf?ts=16502640944
 </device>
 </devices>
 </deviceset>
-<deviceset name="MLP2016SR47MT0S1_FTC252012SR47MBCA" prefix="L" library_version="3">
+<deviceset name="MLP2016SR47MT0S1_FTC252012SR47MBCA" prefix="L" library_version="4">
 <description>&lt;b&gt;SMD / SMT Inductors (Coils), L=0.47?H, L x W x T :&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_power_mlp2016_en.pdf"&gt; Datasheet &lt;/a&gt;</description>
 <gates>
@@ -1586,7 +1586,7 @@ Source: &lt;a href="https://product.tdk.com/system/files/dam/doc/product/inducto
 </device>
 </devices>
 </deviceset>
-<deviceset name="RT6160AWSC_RT6160AWSC" prefix="IC" library_version="2">
+<deviceset name="RT6160AWSC_RT6160AWSC" prefix="IC" library_version="4">
 <description>&lt;b&gt;Buck-Boost Regulator Positive Output Step-Up/Step-Down I2C DC-DC Controller IC 15-WL-CSP (BSC) (1.4x2.3)&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="https://www.richtek.com/SaveDownload.aspx?specid=RT6160A"&gt; Datasheet &lt;/a&gt;</description>
 <gates>
@@ -1626,7 +1626,7 @@ Source: &lt;a href="https://www.richtek.com/SaveDownload.aspx?specid=RT6160A"&gt
 </device>
 </devices>
 </deviceset>
-<deviceset name="BMA423_BMA423" prefix="IC" library_version="1">
+<deviceset name="BMA423_BMA423" prefix="IC" library_version="4">
 <description>&lt;b&gt;Accelerometers Triaxial low-g 12bit Acceleration Sensor&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="https://www.mouser.com/datasheet/2/783/BST-BMA423-DS000-1509600.pdf"&gt; Datasheet &lt;/a&gt;</description>
 <gates>
@@ -1663,7 +1663,7 @@ Source: &lt;a href="https://www.mouser.com/datasheet/2/783/BST-BMA423-DS000-1509
 </device>
 </devices>
 </deviceset>
-<deviceset name="NORDIC_NRF_4_NRF52840_QF" library_version="1">
+<deviceset name="NORDIC_NRF_4_NRF52840_QF" library_version="4">
 <description>&lt;h2&gt;nRF52840&lt;/h2&gt;&lt;p&gt;
 
  &lt;h3&gt;Features&lt;/h3&gt;
@@ -1836,7 +1836,7 @@ Source: &lt;a href="https://www.mouser.com/datasheet/2/783/BST-BMA423-DS000-1509
 </device>
 </devices>
 </deviceset>
-<deviceset name="TC2030-IDC_TC2030-IDC" prefix="J" library_version="1">
+<deviceset name="TC2030-IDC_TC2030-IDC" prefix="J" library_version="4">
 <description>&lt;b&gt;CABLE ADAPTER 6 POS&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/62bc384e093448baaaa63dbd0b9d8707.pdf"&gt; Datasheet &lt;/a&gt;</description>
 <gates>
@@ -1867,7 +1867,7 @@ Source: &lt;a href="https://datasheet.datasheetarchive.com/originals/distributor
 </device>
 </devices>
 </deviceset>
-<deviceset name="2450AT18B100E_2450AT18B100E" prefix="ANT" library_version="2">
+<deviceset name="2450AT18B100E_2450AT18B100E" prefix="ANT" library_version="4">
 <description>&lt;b&gt;Antennas 2.45GHz ANTENNA&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="https://www.johansontechnology.com/datasheets/2450AT18B100/2450AT18B100.pdf"&gt; Datasheet &lt;/a&gt;</description>
 <gates>
@@ -1894,7 +1894,7 @@ Source: &lt;a href="https://www.johansontechnology.com/datasheets/2450AT18B100/2
 </device>
 </devices>
 </deviceset>
-<deviceset name="DRV2605YZFR_DRV2605YZFR" prefix="IC" library_version="8">
+<deviceset name="DRV2605YZFR_DRV2605YZFR" prefix="IC" library_version="4">
 <description>&lt;b&gt;Haptic Driver for ERM/LRA with Built-In Library and Smart Loop Architecture&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="http://www.ti.com/lit/gpn/drv2605"&gt; Datasheet &lt;/a&gt;</description>
 <gates>
@@ -1926,7 +1926,7 @@ Source: &lt;a href="http://www.ti.com/lit/gpn/drv2605"&gt; Datasheet &lt;/a&gt;<
 </device>
 </devices>
 </deviceset>
-<deviceset name="ESP32_C6_LIBRARY_MAX17048G+T10" prefix="U" library_version="23">
+<deviceset name="ESP32_C6_LIBRARY_MAX17048G+T10" prefix="U" library_version="4">
 <description> &lt;a href="https://pricing.snapeda.com/parts/MAX17048G%2BT10/Analog%20Devices/view-part?ref=eda"&gt;Check availability&lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="ESP32_C6_LIBRARY_MAX17048G+T10" x="0" y="0"/>
@@ -1960,7 +1960,7 @@ Source: &lt;a href="http://www.ti.com/lit/gpn/drv2605"&gt; Datasheet &lt;/a&gt;<
 </device>
 </devices>
 </deviceset>
-<deviceset name="503480-2400_503480-2400" prefix="J" library_version="1">
+<deviceset name="503480-2400_503480-2400" prefix="J" library_version="4">
 <description>&lt;b&gt;FFC &amp; FPC Connectors 0.5mm FPC RA SMT Dual Contact 24Ckt&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.pdf"&gt; Datasheet &lt;/a&gt;</description>
 <gates>
@@ -2009,7 +2009,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 </device>
 </devices>
 </deviceset>
-<deviceset name="KH-TYPE-C-16P_KH-TYPE-C-16P" prefix="J" library_version="1">
+<deviceset name="KH-TYPE-C-16P_KH-TYPE-C-16P" prefix="J" library_version="4">
 <description> &lt;a href="https://pricing.snapeda.com/parts/KH-TYPE-C-16P/kinghelm/view-part?ref=eda"&gt;Check availability&lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="KH-TYPE-C-16P_KH-TYPE-C-16P" x="0" y="0"/>
@@ -2042,9 +2042,29 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 </technology>
 </technologies>
 </device>
+<device name="USB" package="KH-TYPE-C-16P_KINGHELM_KH-TYPE-C-16P">
+<connects>
+<connect gate="G$1" pin="CC1" pad="A1_B12"/>
+<connect gate="G$1" pin="CC2" pad="A4_B9"/>
+<connect gate="G$1" pin="DN1" pad="A5"/>
+<connect gate="G$1" pin="DN2" pad="A6"/>
+<connect gate="G$1" pin="DP1" pad="A7"/>
+<connect gate="G$1" pin="DP2" pad="A8"/>
+<connect gate="G$1" pin="GND" pad="A9_B4"/>
+<connect gate="G$1" pin="SBU1" pad="A12_B1"/>
+<connect gate="G$1" pin="SBU2" pad="B5"/>
+<connect gate="G$1" pin="SHIELD" pad="B6"/>
+<connect gate="G$1" pin="VBUS" pad="B7"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="PACKAGE" value=""/>
+</technology>
+</technologies>
+</device>
 </devices>
 </deviceset>
-<deviceset name="ESP32_C6_LIBRARY_3_USBLC6-2SC6Y" prefix="D" library_version="23">
+<deviceset name="ESP32_C6_LIBRARY_3_USBLC6-2SC6Y" prefix="D" library_version="4">
 <description>&lt;b&gt;Low Cap. ESD Protection Auto SOT-23-6 STMicroelectronics USBLC6-2SC6Y, Dual Uni-Directional TVS Diode Array, 6-Pin SOT-23&lt;/b&gt;&lt;p&gt;
 Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/USBLC6-2SC6Y.pdf"&gt; Datasheet &lt;/a&gt;  &lt;a href="https://pricing.snapeda.com/parts/USBLC6-2SC6Y/STMicroelectronics/view-part?ref=eda"&gt;Check availability&lt;/a&gt;</description>
 <gates>
@@ -4882,8 +4902,8 @@ Source: &lt;a href="http://www.te.com/commerce/DocumentDelivery/DDEController?Ac
 <part name="C42" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="" value="0.1uF"/>
 <part name="C43" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0402_L" value="4.7uF\"/>
 <part name="SUPPLY61" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.UGCviqsKRuyr22hNdtfhcA" deviceset="TUTORIAL---FUSION-360_GND-BAR" device="" value="GND"/>
-<part name="J2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.FTfBbUvaT7WQPpG4NnEaNQ" deviceset="KH-TYPE-C-16P_KH-TYPE-C-16P" device=""/>
 <part name="D1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.FTfBbUvaT7WQPpG4NnEaNQ" deviceset="ESP32_C6_LIBRARY_3_USBLC6-2SC6Y" device=""/>
+<part name="J4" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.FTfBbUvaT7WQPpG4NnEaNQ" deviceset="KH-TYPE-C-16P_KH-TYPE-C-16P" device="USB"/>
 </parts>
 <sheets>
 <sheet>
@@ -5516,13 +5536,13 @@ Protection</text>
 <instance part="SUPPLY61" gate="G$1" x="-93.98" y="-218.44" smashed="yes">
 <attribute name="VALUE" x="-93.98" y="-220.98" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="J2" gate="G$1" x="-177.8" y="-210.82" smashed="yes">
-<attribute name="NAME" x="-190.5" y="-199.898" size="1.778" layer="95"/>
-<attribute name="VALUE" x="-190.5" y="-226.06" size="1.778" layer="96"/>
-</instance>
 <instance part="D1" gate="G$1" x="-114.3" y="-180.34" smashed="yes">
 <attribute name="NAME" x="-85.09" y="-172.72" size="1.778" layer="95" align="center-left"/>
 <attribute name="VALUE" x="-85.09" y="-175.26" size="1.778" layer="96" align="center-left"/>
+</instance>
+<instance part="J4" gate="G$1" x="-177.8" y="-210.82" smashed="yes">
+<attribute name="NAME" x="-190.5" y="-199.898" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-190.5" y="-226.06" size="1.778" layer="96"/>
 </instance>
 </instances>
 <busses>
@@ -5931,7 +5951,7 @@ Protection</text>
 <segment>
 <wire x1="-195.58" y1="-220.98" x2="-200.66" y2="-220.98" width="0.1524" layer="91"/>
 <pinref part="SUPPLY57" gate="G$1" pin="GND"/>
-<pinref part="J2" gate="G$1" pin="SHIELD"/>
+<pinref part="J4" gate="G$1" pin="SHIELD"/>
 </segment>
 <segment>
 <pinref part="R2_USB" gate="G$1" pin="2"/>
@@ -7057,6 +7077,7 @@ Protection</text>
 <segment>
 <wire x1="-111.76" y1="-33.02" x2="-132.08" y2="-33.02" width="0.1524" layer="91"/>
 <pinref part="IC5" gate="G$1" pin="EN"/>
+<label x="-132.08" y="-33.02" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="N$7" class="0">
@@ -7256,14 +7277,14 @@ Protection</text>
 <segment>
 <wire x1="-195.58" y1="-208.28" x2="-205.74" y2="-208.28" width="0.1524" layer="91"/>
 <pinref part="R1_USB" gate="G$1" pin="2"/>
-<pinref part="J2" gate="G$1" pin="CC1"/>
+<pinref part="J4" gate="G$1" pin="CC1"/>
 </segment>
 </net>
 <net name="DP" class="0">
 <segment>
 <wire x1="-195.58" y1="-210.82" x2="-198.12" y2="-210.82" width="0.1524" layer="91"/>
 <label x="-198.12" y="-210.82" size="1.27" layer="95" rot="R180" xref="yes"/>
-<pinref part="J2" gate="G$1" pin="DP1"/>
+<pinref part="J4" gate="G$1" pin="DP1"/>
 </segment>
 <segment>
 <wire x1="-114.3" y1="-185.42" x2="-119.38" y2="-185.42" width="0.1524" layer="91"/>
@@ -7275,7 +7296,7 @@ Protection</text>
 <segment>
 <wire x1="-195.58" y1="-213.36" x2="-198.12" y2="-213.36" width="0.1524" layer="91"/>
 <label x="-198.12" y="-213.36" size="1.27" layer="95" rot="R180" xref="yes"/>
-<pinref part="J2" gate="G$1" pin="DN1"/>
+<pinref part="J4" gate="G$1" pin="DN1"/>
 </segment>
 <segment>
 <wire x1="-114.3" y1="-180.34" x2="-119.38" y2="-180.34" width="0.1524" layer="91"/>
@@ -7287,7 +7308,7 @@ Protection</text>
 <segment>
 <wire x1="-160.02" y1="-203.2" x2="-147.32" y2="-203.2" width="0.1524" layer="91"/>
 <label x="-147.32" y="-203.2" size="1.27" layer="95" xref="yes"/>
-<pinref part="J2" gate="G$1" pin="VBUS"/>
+<pinref part="J4" gate="G$1" pin="VBUS"/>
 </segment>
 <segment>
 <wire x1="-81.28" y1="-182.88" x2="-78.74" y2="-182.88" width="0.1524" layer="91"/>
@@ -7310,7 +7331,7 @@ Protection</text>
 <segment>
 <wire x1="-160.02" y1="-215.9" x2="-147.32" y2="-215.9" width="0.1524" layer="91"/>
 <pinref part="R2_USB" gate="G$1" pin="1"/>
-<pinref part="J2" gate="G$1" pin="CC2"/>
+<pinref part="J4" gate="G$1" pin="CC2"/>
 </segment>
 </net>
 <net name="D-/1.5D" class="0">
@@ -7331,21 +7352,21 @@ Protection</text>
 <segment>
 <pinref part="SUPPLY59" gate="G$1" pin="GND"/>
 <wire x1="-160.02" y1="-220.98" x2="-149.86" y2="-220.98" width="0.1524" layer="91"/>
-<pinref part="J2" gate="G$1" pin="GND"/>
+<pinref part="J4" gate="G$1" pin="GND"/>
 </segment>
 </net>
 <net name="N$35" class="0">
 <segment>
 <wire x1="-160.02" y1="-213.36" x2="-154.94" y2="-213.36" width="0.1524" layer="91"/>
 <label x="-154.94" y="-213.36" size="1.27" layer="95" xref="yes"/>
-<pinref part="J2" gate="G$1" pin="DP2"/>
+<pinref part="J4" gate="G$1" pin="DP2"/>
 </segment>
 </net>
 <net name="N$36" class="0">
 <segment>
 <wire x1="-160.02" y1="-210.82" x2="-154.94" y2="-210.82" width="0.1524" layer="91"/>
 <label x="-154.94" y="-210.82" size="1.27" layer="95" xref="yes"/>
-<pinref part="J2" gate="G$1" pin="DN2"/>
+<pinref part="J4" gate="G$1" pin="DN2"/>
 </segment>
 </net>
 </nets>
