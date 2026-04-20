@@ -43,16 +43,16 @@ Quick links:
 ```mermaid
 flowchart LR
     USB[USB-C]
-    BAT[Li-Po Battery\n3.7V / 250mAh]
-    CHG[BQ25180\nCharger + Power Path]
-    REG[RT6160A\nBuck-Boost 3.3V]
-    MCU[nRF52840\nBLE MCU]
-    IMU[BMA423\n3-axis accelerometer]
-    FG[MAX17048\nFuel gauge]
-    HAP[DRV2605\nHaptic driver]
+    BAT["Li-Po Battery<br/>3.7V / 250mAh"]
+    CHG["BQ25180<br/>Charger + Power Path"]
+    REG["RT6160A<br/>Buck-Boost 3.3V"]
+    MCU["nRF52840<br/>BLE MCU"]
+    IMU["BMA423<br/>3-axis accelerometer"]
+    FG["MAX17048<br/>Fuel gauge"]
+    HAP["DRV2605<br/>Haptic driver"]
     MOTOR[Vibration motor]
-    EPDPWR[EPD drive circuit\nboost / analog rails]
-    EPD[1.54" e-paper display]
+    EPDPWR["EPD drive circuit<br/>boost / analog rails"]
+    EPD["1.54-inch e-paper display"]
     DBG[SWD test / debug pads]
 
     USB --> CHG
